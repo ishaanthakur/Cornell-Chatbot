@@ -6,14 +6,16 @@ Overview
 chatbot on the [Cornell's Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After training for couple of hours, the bot is capable of havinf fully functional conversation with the user.
 
 
-Dependencies
+Requirements
 ============
+Use [pip](https://pypi.python.org/pypi/pip) to install following dependencies
+
 * numpy
 * scipy 
 * six
 * tensorflow 
 
-Use [pip](https://pypi.python.org/pypi/pip) to install any of the above missing dependencies
+
 
 
 Usage
@@ -27,7 +29,7 @@ then run the following code in terminal
 
 ``python execute.py``
 
-To test the bot during or after training, edit the `seq2seq.ini` file so that mode is set to test like so
+To test the bot during or after training, edit the `seq2seq.ini` file as follows:-
 
 `mode = test`
 
