@@ -12,7 +12,6 @@ Use [pip](https://pypi.python.org/pypi/pip) to install following dependencies
 
 * numpy
 * scipy 
-* six
 * tensorflow 
 
 
