@@ -2,7 +2,7 @@
 
 Overview
 ============
- This is an implementation of Tensorflow's [Seq2Seq](https://www.tensorflow.org/versions/r0.12/tutorials/seq2seq/index.html) model to train a
+ This is an implementation of Tensorflow's [Seq2Seq](https://google.github.io/seq2seq/) model to train a
 chatbot on the [Cornell's Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After training for couple of hours, the bot is capable of havinf fully functional conversation with the user.
 
 
